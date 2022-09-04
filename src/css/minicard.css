@@ -1,0 +1,40 @@
+.miniCard {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+
+
+.miniCardItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #696666;
+    width: 20%;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: #0c0b0b 0 10px 5px;
+    margin-left: 15px;
+}
+
+.miniCardItem:hover {
+    box-shadow: #fff 0 10px 5px;
+}
+
+.miniCardItem img {
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .miniCard {
+        flex-direction: column;
+        padding: 10px 0;
+    }
+
+    .miniCardItem {
+        width: 90%;
+        height: 200px;
+        margin: 10px 15px;
+    }
+}
