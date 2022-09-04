@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.afeb22bf.css",
+    "main.js": "/my-app/static/js/main.2cc877e3.js",
+    "static/media/login-background.jpg": "/my-app/static/media/login-background.488581b586277fecb7a2.jpg",
+    "static/media/scale6.jpg": "/my-app/static/media/scale6.46cabdd13d396b8838dc.jpg",
+    "static/media/badging5.jpg": "/my-app/static/media/badging5.3f906eafea54ac1d02b4.jpg",
+    "static/media/scale16.jpg": "/my-app/static/media/scale16.4f40638ccf0ca2352df6.jpg",
+    "static/media/badging4.jpg": "/my-app/static/media/badging4.d6a11fa17803e90b366b.jpg",
+    "static/media/scale17.jpg": "/my-app/static/media/scale17.a609e05e698c1a672e0d.jpg",
+    "static/media/scale5.jpg": "/my-app/static/media/scale5.5ddb6db08e69edd82292.jpg",
+    "static/media/scale18.jpg": "/my-app/static/media/scale18.b14e835096db12008636.jpg",
+    "static/media/scale4.jpg": "/my-app/static/media/scale4.9e45bd7b775c100d1e66.jpg",
+    "static/media/scale14.jpg": "/my-app/static/media/scale14.82b5823fc40e0169bd69.jpg",
+    "static/media/scale8.jpg": "/my-app/static/media/scale8.f8f6cea005e51ec417d0.jpg",
+    "static/media/scale9.jpg": "/my-app/static/media/scale9.2e4963b2719b221e2321.jpg",
+    "static/media/badging7.jpg": "/my-app/static/media/badging7.029523dc5eadaf73e299.jpg",
+    "static/media/scale13.jpg": "/my-app/static/media/scale13.f1f468d74f9539b0ce1a.jpg",
+    "static/media/badging3.jpg": "/my-app/static/media/badging3.1b710249423eb57c2753.jpg",
+    "static/media/scale11.jpg": "/my-app/static/media/scale11.f1bfa12abe8b6fc9533d.jpg",
+    "static/media/scale12.jpg": "/my-app/static/media/scale12.115b9ba88c3e744f0c72.jpg",
+    "static/media/badging6.jpg": "/my-app/static/media/badging6.d63e40bd2288a53b3455.jpg",
+    "static/media/badging2.jpg": "/my-app/static/media/badging2.14f4635f3a5cb7e5a4bc.jpg",
+    "static/media/badging.jpg": "/my-app/static/media/badging.8a322815c83e725eb0fd.jpg",
+    "static/media/scale2.jpg": "/my-app/static/media/scale2.7ebf6ed5433cc03823bd.jpg",
+    "static/media/scale15.jpg": "/my-app/static/media/scale15.a5d0e8cf929a84f26c69.jpg",
+    "static/media/scale3.jpg": "/my-app/static/media/scale3.cfe34f752b00cf8e72b3.jpg",
+    "static/media/scale.jpg": "/my-app/static/media/scale.96b6df045417e426a19a.jpg",
+    "static/media/cta-logo-two.png": "/my-app/static/media/cta-logo-two.d76755dcf624e57364fc.png",
+    "static/media/scale7.jpg": "/my-app/static/media/scale7.9ac742996543b649e038.jpg",
+    "static/media/scale10.jpg": "/my-app/static/media/scale10.9faf9667b75957d2f9d6.jpg",
+    "static/media/cta-logo-one.svg": "/my-app/static/media/cta-logo-one.1e2a5ccbbcbea0879d03e030e1e295ff.svg",
+    "static/media/logo.svg": "/my-app/static/media/logo.8205aae82a3c67ca943e8628e2183b0d.svg",
+    "index.html": "/my-app/index.html",
+    "main.afeb22bf.css.map": "/my-app/static/css/main.afeb22bf.css.map",
+    "main.2cc877e3.js.map": "/my-app/static/js/main.2cc877e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afeb22bf.css",
+    "static/js/main.2cc877e3.js"
+  ]
+}
